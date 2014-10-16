@@ -28,7 +28,7 @@ square = drawpad.create_rectangle(120, 320, 180, 380, fill='blue')
 square = drawpad.create_rectangle(220, 320, 280, 380, fill='blue')
 rectangle = drawpad.create_rectangle(170, 420, 230, 500, fill='white')
 oval = drawpad.create_oval(220, 440, 210, 450, fill='purple')
-
+rectangle = drawpad.create_rectangle(0, 500, 500, 490, fill='green')
 #create_square(top left x,top left y, bottom right x, bottom right y, fill color)
 #square = drawpad.create_rectangle(200,200,250,250, fill='red')
 #create_line(top left x,top left y, bottom right x, bottom right y, fill color)
